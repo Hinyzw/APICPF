@@ -1,0 +1,132 @@
+[
+    {
+    "id": 1,
+    "cpf": 2932132123,
+    "nome": "JP",
+    "sobrenome": "Filgueira",
+    "cidade": "São Paulo",
+    "pais": "Brasil",
+    "imagem": "<img src='IMGs/jp.png'>",
+    "link": "https://www.riotgames.com/pt-br"
+    },
+    {
+        "id": 2,
+        "cpf": 2932132124,
+        "nome": "jp",
+        "sobrenome": "apenas",
+        "cidade": "São Paulo",
+        "pais": "Brasil",
+        "imagem": "<img src='IMGs/jppresidiario.png' width= '400px'>",
+        "link": "https://www.riotgames.com/pt-br"
+    },
+    {
+        "id": 3,
+        "cpf": 2932132125,
+        "nome": "Melanie",
+        "sobrenome": "Martinez",
+        "cidade": "New York",
+        "pais": "Estados Unidos",
+        "imagem": "<img src='IMGs/melanie.jpg' width= '400px'>",
+        "link": "http://melaniemartinezmusic.com/"
+    },
+    {
+        "id": 4,
+        "cpf": 2932132126,
+        "nome": "Bea",
+        "sobrenome": "Duarte",
+        "cidade": "São Paulo",
+        "pais": "Brasil",
+        "imagem": "<img src='IMGs/beaduarte.jpg' width= '400px'>",
+        "link": "https://www.instagram.com/beadarte/"
+    },
+    {
+        "id": 5,
+        "cpf": 2932132127,
+        "nome": "Camila",
+        "sobrenome": "Cabello",
+        "cidade": "Cojímar",
+        "pais": "Cuba",
+        "imagem": "<img src='IMGs/camilacabello.jpg' width= '400px'>",
+        "link": "https://www.instagram.com/camila_cabello/"
+    },
+    {
+        "id": 6,
+        "cpf": 2932132128,
+        "nome": "Dri",
+        "sobrenome": "Pereira",
+        "cidade": "São Paulo",
+        "pais": "Brasil",
+        "imagem": "<img src='IMGs/dri.jpg' width= '400px'>",
+        "link": "https://www.instagram.com/dripereira_cavaco/"
+    },
+    {
+        "id": 7,
+        "cpf": 2932132129,
+        "nome": "Halsey",
+        "sobrenome": "Diva",
+        "cidade": "Nova Jersey",
+        "pais": "Estados Unidos",
+        "imagem": "<img src='IMGs/halsey.jpeg' width= '400px'>",
+        "link": "https://www.instagram.com/iamhalsey/"
+    },
+    {
+        "id": 8,
+        "cpf": 2932132130,
+        "nome": "Luisa",
+        "sobrenome": "Sonza",
+        "cidade": "Rio Grande do Sul",
+        "pais": "Brasil",
+        "imagem": "<img src='IMGs/luisa.jpg' width= '400px'>",
+        "link": "https://www.instagram.com/luisasonza/"
+    },
+    {
+        "id": 9,
+        "cpf": 2932132121,
+        "nome": "Sabrina",
+        "sobrenome": "Carpenter",
+        "cidade": "Pensilvânia",
+        "pais": "Estados Unidos",
+        "imagem": "<img src='IMGs/sabrina.jpg' width= '400px'>",
+        "link": "http://www.sabrinacarpenter.com/"
+    },
+    {
+        "id": 10,
+        "cpf": 2932132132,
+        "nome": "Olivia",
+        "sobrenome": "Rodrigo",
+        "cidade": "Califórnia",
+        "pais": "Estados Unidos",
+        "imagem": "<img src='IMGs/olivia.jpg' width= '400px'>",
+        "link": "https://www.instagram.com/oliviarodrigo/"
+    },
+    {
+        "id": 10,
+        "cpf": 2932132133,
+        "nome": "Lady",
+        "sobrenome": "Gaga",
+        "cidade": "New York",
+        "pais": "Estados Unidos",
+        "imagem": "<img src='IMGs/ladygaga.jpg' width= '400px'>",
+        "link": "https://www.instagram.com/ladygaga/"
+    },
+    {
+        "id": 11,
+        "cpf": 2932132134,
+        "nome": "Ellise",
+        "sobrenome": "Perfeita",
+        "cidade": "Califórnia",
+        "pais": "Estados Unidos",
+        "imagem": "<img src='IMGs/ellise.jpg' width= '400px'>",
+        "link": "https://open.spotify.com/intl-pt/track/3bHZeMMosfnAS633rWpf09"
+    },
+    {
+        "id": 12,
+        "cpf": 2932132135,
+        "nome": "Sia",
+        "sobrenome": "Maravilha",
+        "cidade": "Adelaide",
+        "pais": "Austrália",
+        "imagem": "<img src='IMGs/sia.jpg' width= '400px'>",
+        "link": "https://www.youtube.com/watch?v=HhoATZ1Imtw"
+    }
+]
